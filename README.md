@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasoliveiracoelho/)](https://www.linkedin.com/in/lucasoliveiracoelho/)
 
-I'm Front-End developer and passionate about technology and programming.  
+I'm Front-End developer, passionate about technology and programming.  
 I have a broad knowledge in JavaScript technologies such as React, Redux, NextJS and Node.JS.  
 My major objectives are to expand my knowledge in Javascript and contribute to open source projects.  
 I'm graduated in Análise e desenvolvimento de sistemas (Analysis and systems development) at Fatec - Ribeirão Preto/SP.  
